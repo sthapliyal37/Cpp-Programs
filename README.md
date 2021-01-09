@@ -1,2 +1,2 @@
-# Inheritance_in_C++
+#C++
 C++ Programs
